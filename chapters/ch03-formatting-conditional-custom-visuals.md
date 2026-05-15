@@ -92,6 +92,27 @@ Visual design in a report is not decoration. It is a second argument the report 
 
 Microsoft Learn calls this *report formatting*. In practice, it is the difference between a board reading your numbers and a board acting on them.
 
+<!--
+NANO BANANA PRO — CHAPTER 3 FIGURE 2
+File: images/ch03/fig-3-2-two-versions.png
+Title: The Two Versions
+Subject: Two laptops on a Cuban café table — left shows a default-themed dashboard, right shows the same dashboard with a navy/gold brand.
+Action: Hands at the edges of the frame indicating both versions for comparison.
+Environment: A busy Miami cafeteria; two cafecito cups and a pastelito between the laptops.
+Lighting: Warm afternoon café light, other customers in soft-focus background.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch03/fig-3-2-two-versions.png
+:label: fig-3-2
+:alt: Overhead view of two laptops side by side on a café table — one showing a bland default dashboard, the other showing the same dashboard with deep navy and gold branding; two cafecito cups between them.
+:width: 100%
+:align: center
+
+**Figure 3.2.** *The Two Versions.* Same numbers, same visuals, two reactions. The data is not the variable.
+:::
+
 > **Story: The Two Versions**
 >
 > Camila keeps two versions of one of her favorite client reports — same data, same visuals, same dataset. The only difference is formatting. The first version uses Power BI defaults. The second uses an applied theme with conditional formatting on the headline KPI and a custom color palette matched to the client's brand guide.
@@ -289,6 +310,27 @@ Home tab → Insert group → click <strong>More visuals</strong> → <strong>Fr
 
 The catch is that an installed custom visual is third-party code running inside your report. That has consequences.
 
+<!--
+NANO BANANA PRO — CHAPTER 3 FIGURE 3
+File: images/ch03/fig-3-3-jamals-warning.png
+Title: The Quiet Warning
+Subject: Jamal Foster at the corner of Camila's workstation, holding a stapled "Security Incident Report" printout.
+Action: Leaning against the cubicle partition, mid-conversation; expression serious but caring.
+Environment: Modern Miami office at the end of a workday; Camila in soft focus listening from her desk.
+Lighting: Cool late-afternoon slate-toned office light.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable body text on the report (header only), no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch03/fig-3-3-jamals-warning.png
+:label: fig-3-3
+:alt: Jamal Foster from the AdventureWorks BI Center of Excellence at the corner of Camila Reyes's office workstation, holding a stapled "Security Incident Report" printout, Camila listening from her desk in soft focus.
+:width: 100%
+:align: center
+
+**Figure 3.3.** *The Quiet Warning.* A colleague from the central BI Center of Excellence delivers the kind of news governance teams exist to deliver — before, not after, an incident becomes the analyst's problem.
+:::
+
 > **Story: Jamal's Cautionary Tale**
 >
 > Jamal Foster works in the AdventureWorks BI Center of Excellence — the central governance team for all internal Power BI work. He stopped by Camila's desk a week before the board meeting to tell her about a peer's incident.
@@ -390,6 +432,27 @@ You have a lot of rules now — theme application, three conditional drivers, sm
 ---
 
 ## 3.8 Case Study — Camila's Board-Ready Friday
+
+<!--
+NANO BANANA PRO — CHAPTER 3 FIGURE 4
+File: images/ch03/fig-3-4-friday-evening.png
+Title: Friday Evening — The Work Comes Together
+Subject: Camila at her downtown Miami desk late Friday; blazer off, sleeves rolled up, single warm desk lamp.
+Action: Quiet focus on the polished navy/gold dashboard glowing on her monitor.
+Environment: Dim office, empty espresso cup and open notebook on the desk; dark Miami skyline with city lights through the window.
+Lighting: Single warm desk lamp + monitor glow on her face; otherwise dim.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial; cinematic late-hour mood.
+Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch03/fig-3-4-friday-evening.png
+:label: fig-3-4
+:alt: Camila Reyes at her desk on a Friday evening, dim office lit only by a desk lamp and the glow of a monitor showing a polished navy-and-gold Power BI dashboard; empty espresso cup and notebook on the desk; dark Miami skyline with city lights through the window.
+:width: 100%
+:align: center
+
+**Figure 3.4.** *Friday Evening — The Work Comes Together.* The numbers had been right for almost two weeks. On Friday night, the report became a convincing argument.
+:::
 
 It was 5:10 p.m. when Camila reopened the territory report. The board meeting was Thursday. She gave herself the rest of Friday evening and Saturday morning to bring it from functional to convincing.
 

@@ -113,6 +113,27 @@ The temptation in this course is to ignore CAP2791C and treat Power BI as if it 
 
 Let us go back to Camila's Monday morning meeting.
 
+<!--
+NANO BANANA PRO — CHAPTER 1 FIGURE 2
+File: images/ch01/fig-1-2-marcus-stares.png
+Title: The Stare
+Subject: Marcus Bell at a meeting table, looking at Camila's laptop screen with a closed paper notebook beside his elbow.
+Action: Decision-maker mode; processing what he is seeing without writing anything down yet.
+Environment: Modern Miami office; floor-to-ceiling windows showing a sunny Monday-morning skyline.
+Lighting: Soft warm morning light from the windows.
+Style: Photo-real with a subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable text on the screen, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch01/fig-1-2-marcus-stares.png
+:label: fig-1-2
+:alt: Marcus Bell at a meeting table, looking at a laptop screen rotated toward him, his closed leather notebook and uncapped pen beside him; Miami skyline visible through windows.
+:width: 100%
+:align: center
+
+**Figure 1.2.** *The Stare.* The closed notebook is the story. Eleven visuals on the screen, and not a single line Marcus felt was worth writing down.
+:::
+
 > **Story: Eleven Visuals, Zero Answers**
 >
 > Marcus had asked for a report on the South Florida sales territory. Camila built one. It was thorough. Eleven visuals across two pages. Revenue by territory broken out by sales channel. Units sold by product category. Year-over-year growth as a percentage. Top ten resellers ranked. A map of the United States with bubbles sized by sales amount. A line chart of monthly trends going back two years. Two tables. One KPI card. A donut chart.
@@ -196,6 +217,27 @@ You have absorbed a lot of vocabulary. Stand up, stretch, get some water. Look a
 ---
 
 ## 1.4 Visual Encoding 101 — Position, Length, Color, Area
+
+<!--
+NANO BANANA PRO — CHAPTER 1 FIGURE 3
+File: images/ch01/fig-1-3-iyers-whiteboard.png
+Title: Dr. Iyer's Whiteboard
+Subject: Dr. Priya Iyer at a college classroom whiteboard, drawing four rows of dots representing visual encoding channels.
+Action: Mid-gesture, pointing to the position row, mid-sentence.
+Environment: MDC classroom, late afternoon light through a side window.
+Lighting: Warm natural classroom light.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable text other than the whiteboard dot patterns; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch01/fig-1-3-iyers-whiteboard.png
+:label: fig-1-3
+:alt: Dr. Priya Iyer at a classroom whiteboard, mid-gesture pointing to a row of evenly-spaced dots; three other rows of dots (varying in size, color, and shape) are visible on the board.
+:width: 100%
+:align: center
+
+**Figure 1.3.** *The Accuracy Hierarchy on a Whiteboard.* Four rows of dots — size, position, color, shape — make the case Chapter 1 keeps making in prose.
+:::
 
 > **Story: Dr. Iyer's Whiteboard**
 >
@@ -294,6 +336,27 @@ Back to Camila.
 > By the time she finally opens Power BI Wednesday afternoon, she knows what she is building. A single page. Three visuals. One question.
 >
 > On Thursday morning Marcus looks at it. He pulls out his notebook. He writes down two territory names. He looks at Camila and says, *"This. This is what I needed."*
+
+<!--
+NANO BANANA PRO — CHAPTER 1 FIGURE 4
+File: images/ch01/fig-1-4-thursday-verdict.png
+Title: Thursday Morning — The Notebook Opens
+Subject: Marcus Bell at the same meeting table, this time with his notebook OPEN and his hand actively writing two short lines.
+Action: Pen mid-stroke; the verdict is being written down.
+Environment: Modern Miami office; bright Thursday morning light.
+Lighting: Bright morning sun through the windows.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable text on the page (just two suggested lines), no readable text on the laptop, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch01/fig-1-4-thursday-verdict.png
+:label: fig-1-4
+:alt: Marcus Bell writing two short lines in his open notebook, the laptop in the frame showing a single sorted bar chart, Camila standing behind him in soft focus with a faint smile.
+:width: 100%
+:align: center
+
+**Figure 1.4.** *Thursday Morning — The Notebook Opens.* The notebook that stayed closed on Monday is open and being written in. That is the moment the report stopped being a record and became a decision.
+:::
 
 <div style="background-color: #FEF9E7; border-left: 5px solid #F1C40F; padding: 15px; margin: 15px 0; border-radius: 4px;">
 <strong style="color: #7D6608;">⚠️ COMMON MISTAKE</strong><br><br>

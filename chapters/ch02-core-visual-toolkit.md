@@ -74,6 +74,27 @@ The roadmap: you will first organize the toolkit by the *question* each visual a
 
 ### The Tool Wall
 
+<!--
+NANO BANANA PRO — CHAPTER 2 FIGURE 2
+File: images/ch02/fig-2-2-tool-wall-walk.png
+Title: Walking Past the Pegboard
+Subject: Camila Reyes and Dr. Priya Iyer walking through an AdventureWorks bicycle service area, mechanic truing a wheel in the background.
+Action: Mid-stride; Dr. Iyer gesturing toward the pegboard of bicycle tools.
+Environment: Industrial-but-clean service floor; pegboard wall with neatly hung wrenches, tire levers, spoke keys, a chain breaker.
+Lighting: Cool industrial overhead light with warm late-afternoon sun through a high window.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable text on tools or signage, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch02/fig-2-2-tool-wall-walk.png
+:label: fig-2-2
+:alt: Camila and Dr. Iyer walking through an industrial bicycle service area; Dr. Iyer gestures toward a pegboard of bicycle tools; a mechanic trues a wheel in the soft-focus background.
+:width: 100%
+:align: center
+
+**Figure 2.2.** *Walking Past the Pegboard.* The spoke key looks like a wrench in a pinch. It is not. Five pie charts on Marcus's dashboard were five spoke keys reached for as wrenches.
+:::
+
 > **The Tool Wall**
 >
 > On Camila's third day, Dr. Priya Iyer — her mentor, and a former MDC professor who still talked like one — walked her past the AdventureWorks service floor. A mechanic was truing a bicycle wheel at a bench. Behind him hung a pegboard wall: wrenches in rising sizes, tire levers, a chain breaker, a spoke key.
@@ -227,6 +248,27 @@ graph TD
 The **part-to-whole** family answers the question *what share of the total does each piece hold?* The visuals are the **pie chart**, the **donut chart** (a pie with its center removed), and the **treemap** (nested rectangles sized by value). All three encode each value as **area** — and Chapter 1 told you exactly where area sits on the accuracy hierarchy: near the bottom.
 
 This is the spoke key from the tool wall. It is not useless. It is a tool for one narrow job, reached for constantly for jobs it cannot do.
+
+<!--
+NANO BANANA PRO — CHAPTER 2 FIGURE 3
+File: images/ch02/fig-2-3-marcus-colada.png
+Title: Eleven Tacitas
+Subject: A row of eleven tiny Cuban-coffee cups (tacitas) being poured unevenly; Marcus across the table looking at the row.
+Action: Cuban colada coffee mid-pour from a small foam cup into the smallest tacita; Marcus's bemused expression.
+Environment: Miami office break room, midafternoon.
+Lighting: Bright midafternoon light, warm tones.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable text, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch02/fig-2-3-marcus-colada.png
+:label: fig-2-3
+:alt: A line of eleven small Cuban-coffee cups on an office break-room table being poured unevenly from a foam cup; Marcus Bell across the table watching with an amused expression.
+:width: 100%
+:align: center
+
+**Figure 2.3.** *Eleven Tacitas.* Two cups: a fair split. Eleven cups: you cannot rank them by eye. That is the pie chart with eleven slices.
+:::
 
 > **Marcus and the Colada**
 >
@@ -384,6 +426,27 @@ The original tried to show performance against last year with two side-by-side p
 ## 2.8 Practice: Rebuilding the Northwest Dashboard
 
 *Section 2.8 of 2.8 — In this section, you will apply the full toolkit to the dashboard from the chapter's opening.*
+
+<!--
+NANO BANANA PRO — CHAPTER 2 FIGURE 4
+File: images/ch02/fig-2-4-dashboard-rebuild.png
+Title: The Rebuild
+Subject: Camila at a desk with two monitors — left shows the chaotic inherited dashboard, right shows the rebuilt clean version.
+Action: Mid-edit, leaning toward the right monitor.
+Environment: Modern Miami office, late afternoon.
+Lighting: Warm late-afternoon light from a window.
+Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
+Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+-->
+
+:::{figure} ../images/ch02/fig-2-4-dashboard-rebuild.png
+:label: fig-2-4
+:alt: Camila Reyes at her desk with two monitors; left monitor shows a chaotic dashboard with pie charts and a 3D column chart, right monitor shows a clean rebuilt version with a single sorted bar chart and a KPI card.
+:width: 100%
+:align: center
+
+**Figure 2.4.** *The Rebuild.* Eight cluttered visuals on the left. Three defensible ones on the right. The toolkit is the same; the question discipline is what changed.
+:::
 
 Here is the practical challenge. Marcus's inherited dashboard had eight visuals. You will rebuild it visual by visual, and for each one you will document the swap as a three-part record: **what was there**, **what question it should answer**, and **what visual answers that question better**.
 
