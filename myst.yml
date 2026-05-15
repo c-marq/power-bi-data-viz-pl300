@@ -1,0 +1,64 @@
+# MyST project configuration
+# Docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "From Model to Message"
+  subtitle: "Power BI Data Visualization and Analysis — A PL-300 Aligned Course"
+  authors:
+    - name: Professor Carlos Marquez
+      affiliations:
+        - Miami Dade College
+  description: |
+    A pedagogical guide to data visualization in Power BI, aligned to the
+    Visualize-and-Analyze and Manage-and-Secure domains of the Microsoft
+    PL-300 certification exam (skills measured as of January 15, 2026).
+    Designed for community college students who have completed an introductory
+    Power BI data preparation and modeling course, with a neurodivergent-friendly
+    structure throughout.
+  keywords:
+    - Power BI
+    - Data Visualization
+    - PL-300
+    - Microsoft Certification
+    - Data Analytics
+    - DAX
+    - Business Intelligence
+    - AdventureWorks
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/c-marq/power-bi-data-viz-pl300
+  # Numbering
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  # Table of contents
+  toc:
+    - file: index.md
+    - title: "Part 1 — Foundations of Visualization"
+      children:
+        - file: chapters/ch01-from-model-to-message.md
+        - file: chapters/ch02-core-visual-toolkit.md
+    - title: "Part 2 — Design and Interaction"
+      children:
+        - file: chapters/ch03-formatting-conditional-custom-visuals.md
+        - file: chapters/ch04-interactive-storytelling.md
+    - title: "Part 3 — Analytics and AI"
+      children:
+        - file: chapters/ch05-analytics-statistics-visual-calculations.md
+        - file: chapters/ch06-ai-patterns-anomalies-copilot.md
+    - title: "Part 4 — Distribution and Production"
+      children:
+        - file: chapters/ch07-dashboards-mobile-distribution.md
+        - file: chapters/ch08-workspaces-security-governance.md
+
+site:
+  title: "From Model to Message"
+  options:
+    logo_text: "From Model to Message"
+    logo_url: "/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
