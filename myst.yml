@@ -60,5 +60,3 @@ site:
   options:
     logo_text: "From Model to Message"
     logo_url: "/"
-  parts:
-    primary_sidebar_footer: primary-sidebar-footer.md
