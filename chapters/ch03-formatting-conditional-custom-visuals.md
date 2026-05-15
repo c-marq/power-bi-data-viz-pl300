@@ -358,10 +358,10 @@ Every visual on the canvas needs **alt text** — a one-sentence description of 
 
 <div style="background-color: #D5F5E3; border-left: 5px solid #27AE60; padding: 15px; margin: 15px 0; border-radius: 4px;">
 <strong style="color: #1E8449;">✅ DO THIS</strong><br><br>
-Select a visual. Format pane → General → <strong>Alt text</strong>. Type a sentence: <code>Sales by country, sorted descending — United States highest at $7.2M, Australia lowest at $0.4M.</code> Save the report.
+Select a visual. Format pane → General → <strong>Alt text</strong>. Type a sentence: <code>Sales by country, sorted descending — United States highest at \$7.2M, Australia lowest at \$0.4M.</code> Save the report.
 </div>
 
-Alt text should describe what the chart says, not what kind of chart it is. *"Bar chart"* is not useful. *"Sales by country, US leading at $7.2M"* tells the listener what someone reading the visual would learn.
+Alt text should describe what the chart says, not what kind of chart it is. *"Bar chart"* is not useful. *"Sales by country, US leading at \$7.2M"* tells the listener what someone reading the visual would learn.
 
 ### Tab Order
 
@@ -395,7 +395,7 @@ It was 5:10 p.m. when Camila reopened the territory report. The board meeting wa
 
 Friday 5:15 — She started with the theme. **View tab → Themes → Customize current theme.** She set the first data color to AdventureWorks navy and the second to the corporate gold. She set the default font to Segoe UI Semibold for titles and Segoe UI for body. She named the theme `AW-Board-Q3-2026` and saved it as JSON to her Documents folder — she would commit it to the team's repository in the morning.
 
-Friday 6:30 — She rebuilt the headline KPI card. The card now read *Total Sales: $32.4M*, the number rendered in navy at a font size large enough to be the visual anchor of the page. She added conditional formatting on the card's background using a **Rules** driver: under $30M red, $30M to $33M neutral, above $33M green. The card showed neutral. Truth on the page, not a marketing color.
+Friday 6:30 — She rebuilt the headline KPI card. The card now read *Total Sales: \$32.4M*, the number rendered in navy at a font size large enough to be the visual anchor of the page. She added conditional formatting on the card's background using a **Rules** driver: under \$30M red, \$30M to \$33M neutral, above \$33M green. The card showed neutral. Truth on the page, not a marketing color.
 
 Friday 7:00 — Marcus's sorted territory bar chart got a **gradient** background scale on the bar values. The bar for the South Florida region — the territory the board would be deciding about — pulled deepest navy automatically because its value was highest. Pre-attentive processing did the rest.
 
