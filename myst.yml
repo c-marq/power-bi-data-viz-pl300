@@ -27,6 +27,7 @@ project:
   license: CC-BY-4.0
   open_access: true
   github: https://github.com/c-marq/power-bi-data-viz-pl300
+  edit_url: null
   # Numbering
   numbering:
     heading_1: true
