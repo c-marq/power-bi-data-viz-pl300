@@ -8,15 +8,15 @@ NANO BANANA PRO — CHAPTER 5 OPENING INFOGRAPHIC
 File: images/ch05/fig-5-1-ch5-at-a-glance.png
 Title: Analytics and Insight at a Glance
 Concept: A roadmap of the chapter — the six features that move a report from showing data to finding the story inside it.
-Archetype: Hub-and-spoke — central "FINDING THE INSIGHT" node, six labelled spokes.
+Archetype: Roadmap — a winding left-to-right path with six numbered milestone signposts (deliberately NOT hub-and-spoke, to differ from the Ch3/Ch4 openers).
 Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: spokes ANALYZE FEATURE, TOP N ANALYSIS, ANALYTICS PANE, QUICK INSIGHTS, SMART NARRATIVE AND COPILOT, VISUAL CALCULATIONS; banner "FROM SHOWING TO FINDING".
+Labels: milestones 1 ANALYZE FEATURE, 2 TOP N ANALYSIS, 3 ANALYTICS PANE, 4 QUICK INSIGHTS, 5 SMART NARRATIVE AND COPILOT, 6 VISUAL CALCULATIONS; banner "FROM SHOWING TO FINDING".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch05/fig-5-1-ch5-at-a-glance.png
 :label: fig-5-1
-:alt: A hub-and-spoke infographic titled "Analytics and Insight at a Glance." A central node, "finding the insight," connects to six spokes: analyze feature, top N analysis, analytics pane, quick insights, smart narrative and Copilot, and visual calculations. A banner reads "from showing to finding."
+:alt: A winding-roadmap infographic titled "Analytics and Insight at a Glance." Six numbered milestone signposts run along the path: analyze feature, top N analysis, analytics pane, quick insights, smart narrative and Copilot, and visual calculations. A banner reads "from showing to finding."
 :width: 100%
 :align: center
 
@@ -98,20 +98,20 @@ It is the difference between a mechanic who says *your engine light is on* and o
 NANO BANANA PRO — CHAPTER 5 FIGURE 2 (concept infographic)
 File: images/ch05/fig-5-2-explain-the-change.png
 Title: Explain the Change
-Concept: The Analyze feature's four-step workflow — from spotting a jump or drop to reading the cause behind it.
-Archetype: Process flow — four numbered steps joined by gold arrows.
+Concept: The Analyze feature turns an unexplained drop into a named cause.
+Archetype: Before/after — two side-by-side panels with a central gold arrow.
 Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: steps SPOT THE CHANGE, RIGHT-CLICK THE DATA POINT, CHOOSE ANALYZE, READ THE EXPLANATION; footer "THE REPORT DOES THE FIRST PASS".
+Labels: left panel "THE MYSTERY" (a dipping line chart under a question mark); right panel "THE EXPLANATION" (a ranked bar chart, one bar highlighted, "ONE RESELLER, ONE COUNTRY"); footer "THE REPORT DOES THE FIRST PASS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch05/fig-5-2-explain-the-change.png
 :label: fig-5-2
-:alt: A four-step process-flow infographic titled "Explain the Change." The steps run left to right: spot the change, right-click the data point, choose Analyze, and read the explanation. A footer reads "the report does the first pass."
+:alt: A before-and-after infographic titled "Explain the Change." The left panel, "the mystery," shows a line chart dipping under a question mark; the right panel, "the explanation," shows a ranked bar chart with one bar highlighted and labelled "one reseller, one country." A footer reads "the report does the first pass."
 :width: 100%
 :align: center
 
-**Figure 5.2.** *Explain the Change.* The Analyze feature's four-step workflow — from spotting a jump or drop to reading the cause behind it.
+**Figure 5.2.** *Explain the Change.* The Analyze feature turns an unexplained drop into a named cause.
 :::
 
 <div style="background-color: #D5F5E3; border-left: 5px solid #27AE60; padding: 15px; margin: 15px 0; border-radius: 4px;">
@@ -300,20 +300,20 @@ Because a visual calculation can see the visual's rows, in order, it can do thin
 NANO BANANA PRO — CHAPTER 5 FIGURE 3 (concept infographic)
 File: images/ch05/fig-5-3-measure-vs-visual-calc.png
 Title: Two Places to Calculate
-Concept: A measure is computed in the model and reusable everywhere; a visual calculation is computed on the visual and local to it.
-Archetype: Before/after — two side-by-side panels, central gold divider.
+Concept: A measure lives in the model and is reused across many visuals; a visual calculation stays on one visual.
+Archetype: Asymmetric spatial diagram — a broad connected "model" zone vs a single small "visual" panel.
 Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: left panel MEASURE — COMPUTED IN THE MODEL / REUSABLE EVERYWHERE / CANNOT SEE THE VISUAL LAYOUT; right panel VISUAL CALCULATION — COMPUTED ON THE VISUAL / SEES THE VISUAL ROWS / LOCAL TO ONE VISUAL; footer "PICK BY WHERE THE ANSWER MUST LIVE".
+Labels: left zone "THE MODEL" holding a MEASURE badge with gold connector lines fanning to four mini-charts, caption "REUSED EVERYWHERE"; right panel "ONE VISUAL" holding a VISUAL CALCULATION badge in a row grid, caption "LOCAL TO ONE VISUAL"; footer "PICK BY WHERE THE ANSWER MUST LIVE".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch05/fig-5-3-measure-vs-visual-calc.png
 :label: fig-5-3
-:alt: A two-panel comparison infographic titled "Two Places to Calculate." The left panel, "measure," reads "computed in the model, reusable everywhere, cannot see the visual layout." The right panel, "visual calculation," reads "computed on the visual, sees the visual rows, local to one visual." A footer reads "pick by where the answer must live."
+:alt: A spatial diagram titled "Two Places to Calculate." On the left, a broad "the model" zone holds a measure whose gold connector lines fan out to four mini-charts, captioned "reused everywhere." On the right, a single small "one visual" panel holds a visual calculation inside its row grid, captioned "local to one visual." A footer reads "pick by where the answer must live."
 :width: 100%
 :align: center
 
-**Figure 5.3.** *Two Places to Calculate.* A measure lives in the model and travels everywhere; a visual calculation lives on one visual and sees its rows.
+**Figure 5.3.** *Two Places to Calculate.* A measure lives in the model and travels to every visual; a visual calculation stays on the one visual it is written on.
 :::
 
 You create one by selecting a visual and choosing **New visual calculation** — Power BI opens an editing screen showing the visual's data as a grid, with a formula bar above it. You write a DAX expression there, and it becomes a new field in the visual. A running total on a Sales Amount by Month table is a single line:
@@ -350,20 +350,20 @@ If the measure-versus-visual-calculation line feels blurry right now, that is th
 NANO BANANA PRO — CHAPTER 5 FIGURE 4 (synthesis infographic)
 File: images/ch05/fig-5-4-data-to-insight.png
 Title: From Data to Insight
-Concept: The chapter's features stacked as a ladder of escalating analytical value, from showing a number to narrating the story.
-Archetype: Pyramid / ladder — five stacked rungs, value rising upward.
+Concept: The chapter's features as an ascending staircase of analytical value, from showing a number to narrating the story.
+Archetype: Ascending staircase — five steps climbing diagonally from lower left to upper right (deliberately NOT a stacked pyramid, to differ from Ch4 fig-4-2).
 Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: rungs bottom to top SHOW THE NUMBER, ADD A REFERENCE LINE, EXPLAIN THE CHANGE, FORECAST FORWARD, NARRATE THE STORY; side arrow "MORE INSIGHT"; footer "A REPORT THAT ANALYZES, NOT ONLY DISPLAYS".
+Labels: steps bottom to top SHOW THE NUMBER, ADD A REFERENCE LINE, EXPLAIN THE CHANGE, FORECAST FORWARD, NARRATE THE STORY; diagonal arrow "MORE INSIGHT"; footer "A REPORT THAT ANALYZES, NOT ONLY DISPLAYS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch05/fig-5-4-data-to-insight.png
 :label: fig-5-4
-:alt: A five-rung ladder infographic titled "From Data to Insight." From bottom to top the rungs read "show the number," "add a reference line," "explain the change," "forecast forward," and "narrate the story." A side arrow reads "more insight." A footer reads "a report that analyzes, not only displays."
+:alt: A five-step ascending-staircase infographic titled "From Data to Insight." Climbing from lower left to upper right, the steps read "show the number," "add a reference line," "explain the change," "forecast forward," and "narrate the story." A diagonal arrow reads "more insight." A footer reads "a report that analyzes, not only displays."
 :width: 100%
 :align: center
 
-**Figure 5.4.** *From Data to Insight.* Each rung makes the report do more analytical work — the chapter, climbed in one picture.
+**Figure 5.4.** *From Data to Insight.* Each step makes the report do more analytical work — the chapter, climbed in one picture.
 :::
 
 Camila set out to build the report Marcus had described at the conference screen — one that does the first pass.
