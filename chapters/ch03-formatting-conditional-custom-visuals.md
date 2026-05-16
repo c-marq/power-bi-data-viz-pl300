@@ -4,25 +4,23 @@ subtitle: "Design and Interaction, Part 1"
 ---
 
 <!--
-NANO BANANA PRO — CHAPTER 3 OPENING IMAGE
-File: images/ch03/fig-3-1-designers-desk.png
-Title: The Designer's Desk
-
-Subject: Camila Reyes — the same young Latina BI analyst from Chapter 1 — at her downtown Miami office desk in early evening.
-Action: She is leaning slightly forward, comparing a beautifully themed Power BI dashboard on her monitor with a small fan of Pantone-style color swatch cards laid out beside her keyboard.
-Environment: A modern Class A office workspace, glass-walled, with the Miami skyline visible through floor-to-ceiling windows at golden hour; palm tree silhouettes; ocean glow on the horizon. On her desk: a leather notebook open to hand-sketched color swatches and typography samples, a small white espresso cup, the swatch fan, and a wireless keyboard. The monitor displays a clearly branded dashboard — deep navy palette with gold accents, a sorted bar chart, a KPI card, and a clean line chart.
-Lighting: Warm golden window light from the right; cool monitor glow on Camila's face; cinematic, shallow depth of field with Camila and the swatch fan in sharp focus, the skyline softly out of focus.
-Style: Photo-real with a subtle digital-painting finish; clean, premium, editorial; consistent visual identity with the Chapter 1 and Chapter 2 opening images.
-Constraints: No readable text on the dashboard or swatches, no logos, no other people, no AI-generated weirdness on hands; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 3 OPENING INFOGRAPHIC
+File: images/ch03/fig-3-1-ch3-at-a-glance.png
+Title: Chapter 3 at a Glance
+Concept: A roadmap of the chapter — the six levers that move a report from functional to convincing.
+Archetype: Hub-and-spoke — central "A CONVINCING REPORT" node, six labelled spokes.
+Reference: images/_style-reference/fig-3-2-two-reactions.png
+Labels: spokes THEMES, CONDITIONAL FORMATTING, SMALL MULTIPLES, CUSTOM VISUALS, R AND PYTHON VISUALS, ACCESSIBILITY; banner "FUNCTIONAL TO CONVINCING".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch03/fig-3-1-designers-desk.png
+:::{figure} ../images/ch03/fig-3-1-ch3-at-a-glance.png
 :label: fig-3-1
-:alt: Camila Reyes at her Miami office desk in golden-hour light, comparing a branded Power BI dashboard on her monitor with a fan of color swatch cards on her desk; the skyline visible through glass walls.
+:alt: A hub-and-spoke infographic titled "Chapter 3 at a Glance." A central node, "a convincing report," connects to six spokes: themes, conditional formatting, small multiples, custom visuals, R and Python visuals, and accessibility. A banner reads "functional to convincing."
 :width: 100%
 :align: center
 
-**Figure 3.1.** *The Designer's Desk.* The work shifts here. The numbers were already right. Now the report has to look like its conclusions matter.
+**Figure 3.1.** *Chapter 3 at a Glance.* The six levers that move a report from functional to convincing.
 :::
 
 **Chapter 3 of 8** | **Part 2 of 4: Design and Interaction**
@@ -93,24 +91,23 @@ Visual design in a report is not decoration. It is a second argument the report 
 Microsoft Learn calls this *report formatting*. In practice, it is the difference between a board reading your numbers and a board acting on them.
 
 <!--
-NANO BANANA PRO — CHAPTER 3 FIGURE 2
-File: images/ch03/fig-3-2-two-versions.png
-Title: The Two Versions
-Subject: Two laptops on a Cuban café table — left shows a default-themed dashboard, right shows the same dashboard with a navy/gold brand.
-Action: Hands at the edges of the frame indicating both versions for comparison.
-Environment: A busy Miami cafeteria; two cafecito cups and a pastelito between the laptops.
-Lighting: Warm afternoon café light, other customers in soft-focus background.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
-Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 3 FIGURE 2 (concept infographic)
+File: images/ch03/fig-3-2-two-reactions.png
+Title: Same Data, Two Reactions
+Concept: Formatting is a second argument — the same report, default vs branded, draws two different audience reactions.
+Archetype: Before/after — two panels, central "FORMATTING" arrow.
+Reference: this figure is itself a locked style anchor in images/_style-reference/.
+Labels: panel headers "DEFAULT" / "BRANDED"; callouts "A 3-SECOND GLANCE" / "THEY LEAN IN"; footer "THE DATA IS IDENTICAL".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch03/fig-3-2-two-versions.png
+:::{figure} ../images/ch03/fig-3-2-two-reactions.png
 :label: fig-3-2
-:alt: Overhead view of two laptops side by side on a café table — one showing a bland default dashboard, the other showing the same dashboard with deep navy and gold branding; two cafecito cups between them.
+:alt: A before-and-after infographic titled "Same Data, Two Reactions." A default-formatted dashboard draws "a 3-second glance"; the same dashboard, branded in navy and gold, makes the audience "lean in." A footer reads "the data is identical."
 :width: 100%
 :align: center
 
-**Figure 3.2.** *The Two Versions.* Same numbers, same visuals, two reactions. The data is not the variable.
+**Figure 3.2.** *Same Data, Two Reactions.* Same numbers, same visuals — formatting decides whether the audience glances or leans in.
 :::
 
 > **Story: The Two Versions**
@@ -217,7 +214,7 @@ graph TD
     Field --> Apply
 ```
 
-**Figure 3.2.** The conditional formatting workflow. Same first three steps every time. The branching decision is which of the three drivers fits the question being asked.
+**Diagram 3.1.** The conditional formatting workflow. Same first three steps every time. The branching decision is which of the three drivers fits the question being asked.
 
 ### Driver 1: Gradient Color Scale
 
@@ -259,7 +256,7 @@ graph LR
     Measure --> Apply
 ```
 
-**Figure 3.3.** Field-value conditional formatting moves the logic from the visual into a DAX measure. The visual reads the result back. When business rules change, you edit the measure, and every visual that uses it updates at once.
+**Diagram 3.2.** Field-value conditional formatting moves the logic from the visual into a DAX measure. The visual reads the result back. When business rules change, you edit the measure, and every visual that uses it updates at once.
 
 This is the most powerful pattern and the one Microsoft tests on the PL-300 exam most often. A measure named `Color By Margin` might check the row's gross margin percentage against thresholds you set elsewhere in the model — and every visual that uses it inherits the same logic. Change the measure once, every report updates.
 
@@ -311,24 +308,23 @@ Home tab → Insert group → click <strong>More visuals</strong> → <strong>Fr
 The catch is that an installed custom visual is third-party code running inside your report. That has consequences.
 
 <!--
-NANO BANANA PRO — CHAPTER 3 FIGURE 3
-File: images/ch03/fig-3-3-jamals-warning.png
-Title: The Quiet Warning
-Subject: Jamal Foster at the corner of Camila's workstation, holding a stapled "Security Incident Report" printout.
-Action: Leaning against the cubicle partition, mid-conversation; expression serious but caring.
-Environment: Modern Miami office at the end of a workday; Camila in soft focus listening from her desk.
-Lighting: Cool late-afternoon slate-toned office light.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
-Constraints: No readable body text on the report (header only), no logos; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 3 FIGURE 3 (concept infographic)
+File: images/ch03/fig-3-3-custom-visual-checklist.png
+Title: Before You Install a Custom Visual
+Concept: The safety checklist to run before installing an AppSource custom visual into a report.
+Archetype: Checklist — four stacked check rows.
+Reference: images/_style-reference/fig-1-3-visual-encoding.png
+Labels: checks "MICROSOFT CERTIFIED BADGE" / "REAL PUBLISHER, WORKING WEBSITE" / "NO UNEXPECTED INTERNET CALLS" / "YOUR TENANT ALLOWS IT"; footer "UNCERTIFIED IS NOT ALWAYS UNSAFE, CERTIFIED IS THE FLOOR".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch03/fig-3-3-jamals-warning.png
+:::{figure} ../images/ch03/fig-3-3-custom-visual-checklist.png
 :label: fig-3-3
-:alt: Jamal Foster from the AdventureWorks BI Center of Excellence at the corner of Camila Reyes's office workstation, holding a stapled "Security Incident Report" printout, Camila listening from her desk in soft focus.
+:alt: A four-item checklist infographic titled "Before You Install a Custom Visual": confirm the Microsoft Certified badge, a real publisher with a working website, no unexpected internet calls, and that your tenant allows the visual. A footer reads "uncertified is not always unsafe, certified is the floor."
 :width: 100%
 :align: center
 
-**Figure 3.3.** *The Quiet Warning.* A colleague from the central BI Center of Excellence delivers the kind of news governance teams exist to deliver — before, not after, an incident becomes the analyst's problem.
+**Figure 3.3.** *Before You Install a Custom Visual.* The four-point safety check before an AppSource visual goes into a production report.
 :::
 
 > **Story: Jamal's Cautionary Tale**
@@ -392,7 +388,7 @@ graph TD
     D --> Pub
 ```
 
-**Figure 3.4.** Four accessibility checks. Each one closes a specific gap in audience reach. A report that passes all four is meaningfully usable by a meaningfully wider audience.
+**Diagram 3.3.** Four accessibility checks. Each one closes a specific gap in audience reach. A report that passes all four is meaningfully usable by a meaningfully wider audience.
 
 ### Alt Text
 
@@ -434,24 +430,23 @@ You have a lot of rules now — theme application, three conditional drivers, sm
 ## 3.8 Case Study — Camila's Board-Ready Friday
 
 <!--
-NANO BANANA PRO — CHAPTER 3 FIGURE 4
-File: images/ch03/fig-3-4-friday-evening.png
-Title: Friday Evening — The Work Comes Together
-Subject: Camila at her downtown Miami desk late Friday; blazer off, sleeves rolled up, single warm desk lamp.
-Action: Quiet focus on the polished navy/gold dashboard glowing on her monitor.
-Environment: Dim office, empty espresso cup and open notebook on the desk; dark Miami skyline with city lights through the window.
-Lighting: Single warm desk lamp + monitor glow on her face; otherwise dim.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial; cinematic late-hour mood.
-Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 3 FIGURE 4 (concept infographic)
+File: images/ch03/fig-3-4-formatting-timeline.png
+Title: Camila's Board-Ready Friday
+Concept: The case study as a timeline — six formatting moves that take the report from functional to board-ready in one evening.
+Archetype: Process flow — six time-stamped steps left to right.
+Reference: images/_style-reference/fig-3-2-two-reactions.png
+Labels: steps 5:15 APPLY A THEME, 6:30 HEADLINE KPI CARD, 7:00 CONDITIONAL-FORMAT THE BARS, 7:45 SMALL MULTIPLES, 8:30 ACCESSIBILITY PASS, 9:15 SHIP IT; footer "FUNCTIONAL TO CONVINCING".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch03/fig-3-4-friday-evening.png
+:::{figure} ../images/ch03/fig-3-4-formatting-timeline.png
 :label: fig-3-4
-:alt: Camila Reyes at her desk on a Friday evening, dim office lit only by a desk lamp and the glow of a monitor showing a polished navy-and-gold Power BI dashboard; empty espresso cup and notebook on the desk; dark Miami skyline with city lights through the window.
+:alt: A six-step timeline infographic titled "Camila's Board-Ready Friday": 5:15 apply a theme, 6:30 headline KPI card, 7:00 conditional-format the bars, 7:45 small multiples, 8:30 accessibility pass, 9:15 ship it. A footer reads "functional to convincing."
 :width: 100%
 :align: center
 
-**Figure 3.4.** *Friday Evening — The Work Comes Together.* The numbers had been right for almost two weeks. On Friday night, the report became a convincing argument.
+**Figure 3.4.** *Camila's Board-Ready Friday.* Six formatting moves, one evening — the case study as a timeline.
 :::
 
 It was 5:10 p.m. when Camila reopened the territory report. The board meeting was Thursday. She gave herself the rest of Friday evening and Saturday morning to bring it from functional to convincing.
@@ -512,7 +507,7 @@ graph TD
     CF --> Field
 ```
 
-**Figure 3.5.** Chapter 3 in one picture. A convincing report is the goal; the six tracks below it are the levers you pull to get there.
+**Diagram 3.4.** Chapter 3 in one picture. A convincing report is the goal; the six tracks below it are the levers you pull to get there.
 
 ### Vocabulary Review
 

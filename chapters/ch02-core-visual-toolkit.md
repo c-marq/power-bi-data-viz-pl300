@@ -75,24 +75,23 @@ The roadmap: you will first organize the toolkit by the *question* each visual a
 ### The Tool Wall
 
 <!--
-NANO BANANA PRO — CHAPTER 2 FIGURE 2
-File: images/ch02/fig-2-2-tool-wall-walk.png
-Title: Walking Past the Pegboard
-Subject: Camila Reyes and Dr. Priya Iyer walking through an AdventureWorks bicycle service area, mechanic truing a wheel in the background.
-Action: Mid-stride; Dr. Iyer gesturing toward the pegboard of bicycle tools.
-Environment: Industrial-but-clean service floor; pegboard wall with neatly hung wrenches, tire levers, spoke keys, a chain breaker.
-Lighting: Cool industrial overhead light with warm late-afternoon sun through a high window.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
-Constraints: No readable text on tools or signage, no logos; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 2 FIGURE 2 (concept infographic)
+File: images/ch02/fig-2-2-comparison-family.png
+Title: The Comparison Family
+Concept: Bar and column charts — one tool turned 90 degrees, clustered vs stacked, and the rule to always sort by the measure.
+Archetype: Row diagram — three stacked panels.
+Reference: images/_style-reference/fig-1-3-visual-encoding.png
+Labels: "BAR, horizontal" / "COLUMN, vertical" / "CLUSTERED" / "STACKED"; banner "ALWAYS SORT BY THE MEASURE".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch02/fig-2-2-tool-wall-walk.png
+:::{figure} ../images/ch02/fig-2-2-comparison-family.png
 :label: fig-2-2
-:alt: Camila and Dr. Iyer walking through an industrial bicycle service area; Dr. Iyer gestures toward a pegboard of bicycle tools; a mechanic trues a wheel in the soft-focus background.
+:alt: An infographic titled "The Comparison Family." It shows a bar chart (horizontal) and a column chart (vertical) as the same tool turned 90 degrees, contrasts clustered and stacked columns, and ends with a banner reading "always sort by the measure."
 :width: 100%
 :align: center
 
-**Figure 2.2.** *Walking Past the Pegboard.* The spoke key looks like a wrench in a pinch. It is not. Five pie charts on Marcus's dashboard were five spoke keys reached for as wrenches.
+**Figure 2.2.** *The Comparison Family.* Bar and column charts — the workhorse of categorical comparison, and the rule that makes them readable.
 :::
 
 > **The Tool Wall**
@@ -113,7 +112,7 @@ The fastest way to build that fluency is to stop organizing visuals by what they
   Organizing the toolkit by question — instead of by appearance — lets you choose a visual <em>before</em> you build it, the way the mechanic chooses a tool before he reaches for it. When a stakeholder asks for "a chart," you will not be guessing; you will be asking one thing: what is the shape of the answer they need? That habit is the core skill the PL-300 exam tests under "select an appropriate visual," and it separates a report that decorates from a report that informs.
 </div>
 
-There are seven question families. Figure 2.1 lays them out.
+There are seven question families. Diagram 2.1 lays them out.
 
 ```mermaid
 graph TD
@@ -127,7 +126,7 @@ graph TD
     C1 -->|Where it happens| V7[Map]
 ```
 
-**Figure 2.1: The Toolkit Map** — Every core Power BI visual sorted by the question it answers. This chapter teaches the toolkit in this order, family by family.
+**Diagram 2.1: The Toolkit Map** — Every core Power BI visual sorted by the question it answers. This chapter teaches the toolkit in this order, family by family.
 
 Not every family carries equal weight. Four visuals — the column or bar chart, the line chart, the matrix, and the card — do roughly 80% of the work in a typical AdventureWorks report. This chapter goes **deep** on those four and stays **brief** on the rarer ones (ribbon, area, box plot, treemap, ArcGIS, gauge): enough to recognize them, name the one question they answer, and know their main failure mode. You will not configure a box plot from scratch in Week 4, but you will be ready to recognize one on the PL-300 exam.
 
@@ -216,7 +215,7 @@ The line chart's two cousins each answer a narrower question:
   Reaching for a clustered column chart to show a trend across twelve or twenty-four months. It technically works, but a forest of separate columns asks the eye to compare heights one pair at a time. A line chart shows the whole trajectory as a single shape. The rule: if the horizontal axis is time and you care about the <em>movement</em>, use a line.
 </div>
 
-Selecting a visual is not a single jump from "I need a chart" to "here is a pie." It is a short chain of decisions, and Figure 2.2 shows that chain.
+Selecting a visual is not a single jump from "I need a chart" to "here is a pie." It is a short chain of decisions, and Diagram 2.2 shows that chain.
 
 ```mermaid
 graph TD
@@ -228,9 +227,9 @@ graph TD
     check -->|No| shape
 ```
 
-**Figure 2.2: The Visual Selection Flow** — The reasoning path from a business question to a built visual. The loop matters: if a candidate visual does not answer the question cleanly, you return to naming the shape of the answer — you do not force the visual.
+**Diagram 2.2: The Visual Selection Flow** — The reasoning path from a business question to a built visual. The loop matters: if a candidate visual does not answer the question cleanly, you return to naming the shape of the answer — you do not force the visual.
 
-*Micro-checkpoint:* Marcus asks, "Are our Touring Bike sales growing or shrinking across the year?" Walk that question through Figure 2.2 in your head. Where does it land?
+*Micro-checkpoint:* Marcus asks, "Are our Touring Bike sales growing or shrinking across the year?" Walk that question through Diagram 2.2 in your head. Where does it land?
 
 <div style="background-color: #E8DAEF; border-left: 5px solid #8E44AD; padding: 15px; margin: 15px 0; border-radius: 4px;">
   <strong style="color: #6C3483;">💜 TAKE A BREATH</strong><br>
@@ -250,24 +249,23 @@ The **part-to-whole** family answers the question *what share of the total does 
 This is the spoke key from the tool wall. It is not useless. It is a tool for one narrow job, reached for constantly for jobs it cannot do.
 
 <!--
-NANO BANANA PRO — CHAPTER 2 FIGURE 3
-File: images/ch02/fig-2-3-marcus-colada.png
-Title: Eleven Tacitas
-Subject: A row of eleven tiny Cuban-coffee cups (tacitas) being poured unevenly; Marcus across the table looking at the row.
-Action: Cuban colada coffee mid-pour from a small foam cup into the smallest tacita; Marcus's bemused expression.
-Environment: Miami office break room, midafternoon.
-Lighting: Bright midafternoon light, warm tones.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
-Constraints: No readable text, no logos; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 2 FIGURE 3 (concept infographic)
+File: images/ch02/fig-2-3-pie-chart-breaks.png
+Title: When the Pie Chart Breaks
+Concept: A pie chart works with two or three clear slices and fails past that; a sorted bar answers the same question.
+Archetype: Three-panel comparison — good / bad / fix.
+Reference: images/_style-reference/fig-3-2-two-reactions.png
+Labels: panels "3 SLICES" / "11 SLICES" / "SORTED BAR"; pills "READABLE" / "UNREADABLE" / "USE THIS INSTEAD"; footer "PAST THREE SLICES, REACH FOR A SORTED BAR".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch02/fig-2-3-marcus-colada.png
+:::{figure} ../images/ch02/fig-2-3-pie-chart-breaks.png
 :label: fig-2-3
-:alt: A line of eleven small Cuban-coffee cups on an office break-room table being poured unevenly from a foam cup; Marcus Bell across the table watching with an amused expression.
+:alt: A three-panel infographic titled "When the Pie Chart Breaks." A pie with three slices is marked readable, a pie with eleven slices is marked unreadable, and the same eleven values shown as a sorted bar chart is marked "use this instead."
 :width: 100%
 :align: center
 
-**Figure 2.3.** *Eleven Tacitas.* Two cups: a fair split. Eleven cups: you cannot rank them by eye. That is the pie chart with eleven slices.
+**Figure 2.3.** *When the Pie Chart Breaks.* Three clear slices a pie can show; eleven it cannot — but a sorted bar can.
 :::
 
 > **Marcus and the Colada**
@@ -287,7 +285,7 @@ So when *may* you use a pie or donut? When you have **two or three categories**,
 
 <div style="background-color: #FEF9E7; border-left: 5px solid #F1C40F; padding: 15px; margin: 15px 0; border-radius: 4px;">
   <strong style="color: #7D6608;">⚠️ COMMON MISTAKE</strong><br>
-  Using a pie chart to compare two time periods — one pie for this year, one for last year — and expecting the reader to spot what changed. The eye cannot reliably compare wedge sizes <em>across two separate circles</em>. If the question is "what changed," that is a comparison or trend question, not a part-to-whole question. Send it back through Figure 2.2.
+  Using a pie chart to compare two time periods — one pie for this year, one for last year — and expecting the reader to spot what changed. The eye cannot reliably compare wedge sizes <em>across two separate circles</em>. If the question is "what changed," that is a comparison or trend question, not a part-to-whole question. Send it back through Diagram 2.2.
 </div>
 
 *Micro-checkpoint:* AdventureWorks has four product categories. A pie chart of sales across all four — defensible or not? What single fact would change your answer?
@@ -326,7 +324,7 @@ A **table** is a flat grid: rows of records, columns of fields, the way a list l
 
 The reason these are workhorses: they make no encoding compromise. There is no length to misjudge, no area to misread — the number is the number. The trade-off is that the reader has to *read* rather than *glance*; a table cannot show a trend as a shape. That is why tables and charts so often work as a **pair** — the chart shows the pattern, the table backs it with exact figures.
 
-It is worth pausing on what actually happens when you drag a field onto a visual — a move you have now done several times in Demo 1. Figure 2.3 traces it.
+It is worth pausing on what actually happens when you drag a field onto a visual — a move you have now done several times in Demo 1. Diagram 2.3 traces it.
 
 ```mermaid
 graph TD
@@ -339,7 +337,7 @@ graph TD
     values --> mark
 ```
 
-**Figure 2.3: From Field to Canvas** — A field does nothing on its own. The *field well* you drop it into assigns its role — category or value — and that role decides how the field is encoded on the canvas. Drop the same field in a different well and you get a different visual.
+**Diagram 2.3: From Field to Canvas** — A field does nothing on its own. The *field well* you drop it into assigns its role — category or value — and that role decides how the field is encoded on the canvas. Drop the same field in a different well and you get a different visual.
 
 A field does nothing on its own. The field well you drop it into assigns its role and decides how it is encoded — that single mechanic is behind every visual you have built and every one still to come.
 
@@ -428,24 +426,23 @@ The original tried to show performance against last year with two side-by-side p
 *Section 2.8 of 2.8 — In this section, you will apply the full toolkit to the dashboard from the chapter's opening.*
 
 <!--
-NANO BANANA PRO — CHAPTER 2 FIGURE 4
+NANO BANANA PRO — CHAPTER 2 FIGURE 4 (concept infographic)
 File: images/ch02/fig-2-4-dashboard-rebuild.png
-Title: The Rebuild
-Subject: Camila at a desk with two monitors — left shows the chaotic inherited dashboard, right shows the rebuilt clean version.
-Action: Mid-edit, leaning toward the right monitor.
-Environment: Modern Miami office, late afternoon.
-Lighting: Warm late-afternoon light from a window.
-Style: Photo-real with subtle digital-painting finish; clean, premium, editorial.
-Constraints: No readable on-screen text, no logos; 16:9 aspect ratio.
+Title: The Dashboard Rebuild
+Concept: Rebuilding a chaotic inherited dashboard by swapping each visual for the one that answers its question.
+Archetype: Before/after — two panels, central "ONE DEFENSIBLE SWAP AT A TIME" arrow.
+Reference: images/_style-reference/fig-1-3-visual-encoding.png
+Labels: panel headers "INHERITED" / "REBUILT"; callouts "8 VISUALS, GUESSWORK" / "3 FAMILIES, DEFENSIBLE"; footer "THE TOOLKIT IS THE SAME, THE QUESTION DISCIPLINE CHANGED".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch02/fig-2-4-dashboard-rebuild.png
 :label: fig-2-4
-:alt: Camila Reyes at her desk with two monitors; left monitor shows a chaotic dashboard with pie charts and a 3D column chart, right monitor shows a clean rebuilt version with a single sorted bar chart and a KPI card.
+:alt: A before-and-after infographic titled "The Dashboard Rebuild." The "inherited" panel is a chaotic dashboard of pie charts, a 3D column chart, and a gauge; the "rebuilt" panel is a clean dashboard of KPI cards, a sorted bar chart, and a line chart.
 :width: 100%
 :align: center
 
-**Figure 2.4.** *The Rebuild.* Eight cluttered visuals on the left. Three defensible ones on the right. The toolkit is the same; the question discipline is what changed.
+**Figure 2.4.** *The Dashboard Rebuild.* Eight cluttered visuals become three defensible ones — the toolkit is the same; the question discipline is what changed.
 :::
 
 Here is the practical challenge. Marcus's inherited dashboard had eight visuals. You will rebuild it visual by visual, and for each one you will document the swap as a three-part record: **what was there**, **what question it should answer**, and **what visual answers that question better**.
@@ -463,7 +460,7 @@ This is the case study, and it is partially worked below. Two visuals are done f
 | 7 | Pie: product sub-category share | Parts of a whole | Treemap if many categories; sorted bar if ranking matters |
 | 8 | Table of every transaction, unsorted | *Your turn — diagnose it* | *Your turn — choose and defend* |
 
-For visual #8, work through Figure 2.2: name the shape of the answer, pick the encoding, choose a candidate, and check it. A table is not automatically wrong — but an *unsorted* table of every transaction rarely answers a real question on its own. Decide what question the dashboard's audience actually has, and either give the table a sort and a purpose or replace it.
+For visual #8, work through Diagram 2.2: name the shape of the answer, pick the encoding, choose a candidate, and check it. A table is not automatically wrong — but an *unsorted* table of every transaction rarely answers a real question on its own. Decide what question the dashboard's audience actually has, and either give the table a sort and a purpose or replace it.
 
 When Camila finished her rebuild, she did not walk into Marcus's office with "your dashboard was bad." She walked in with the swap table. For every change, she had the question it answered and the encoding reason behind it. Marcus kept two of his pie charts — the two with three clearly different slices, which is precisely where a pie earns its place. Everything else changed, and he could see why.
 
@@ -497,7 +494,7 @@ graph TD
     swap --> dashboard
 ```
 
-**Figure 2.4: Chapter 2 Concept Map** — How the chapter's ideas connect. The encoding accuracy hierarchy from Chapter 1 is the hinge: it sorts the toolkit into workhorses and cautions, and both paths lead to the same goal — a report that communicates rather than decorates.
+**Diagram 2.4: Chapter 2 Concept Map** — How the chapter's ideas connect. The encoding accuracy hierarchy from Chapter 1 is the hinge: it sorts the toolkit into workhorses and cautions, and both paths lead to the same goal — a report that communicates rather than decorates.
 
 ### Vocabulary Review
 
@@ -525,7 +522,7 @@ You can now choose the right visual for a question and configure it. But the reb
 2. A colleague shows you a pie chart with nine slices and asks why it is hard to read. Using the encoding accuracy hierarchy, explain the problem in one or two sentences.
 3. You need to show both the *shape* of sales across the year and the *exact figure* for each category in each quarter. Describe the two-visual layout that delivers both.
 4. When is a gauge a defensible choice over a card — and when is it not?
-5. A dashboard has a 3D column chart of monthly sales. Walk the question through the Visual Selection Flow (Figure 2.2) and name the visual it should be instead.
+5. A dashboard has a 3D column chart of monthly sales. Walk the question through the Visual Selection Flow (Diagram 2.2) and name the visual it should be instead.
 
 ### Hands-On Challenge (40–60 minutes)
 
