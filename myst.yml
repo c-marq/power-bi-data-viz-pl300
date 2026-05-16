@@ -58,6 +58,9 @@ project:
 
 site:
   title: "From Model to Message"
+  actions:
+    - title: "Open Access"
+      url: "https://grokipedia.com/page/Open_access#definitions-and-terminology"
   options:
     logo_text: "From Model to Message"
     logo_url: "/"
