@@ -100,8 +100,9 @@ NANO BANANA PRO — CHAPTER 6 FIGURE 2 (concept infographic)
 File: images/ch06/fig-6-2-three-ways-category.png
 Title: Three Ways to Make a Category
 Concept: Grouping, binning, and clustering compared — who decides the buckets in each.
-Archetype: Three-panel comparison — three equal side-by-side panels.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
+Archetype: Rich three-panel comparison — three illustrated side-by-side panels; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch02-opener.png
+Reference (palette): images/ch06/fig-6-1-ch6-at-a-glance.png
 Labels: panels GROUPING / YOU PICK THE MEMBERS, BINNING / EQUAL NUMERIC RANGES, CLUSTERING / THE MACHINE FINDS THE GROUPS; footer "MANUAL, NUMERIC, OR MACHINE-FOUND".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
@@ -178,8 +179,9 @@ NANO BANANA PRO — CHAPTER 6 FIGURE 3 (concept infographic)
 File: images/ch06/fig-6-3-decomposition-tree.png
 Title: The Decomposition Tree
 Concept: How the Decomposition Tree breaks one measure apart, branch by branch, with an optional AI-chosen split.
-Archetype: Tree diagram — a left-to-right branching tree.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
+Archetype: Rich tree diagram — a left-to-right branching tree with illustrated nodes; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-bloom.png
+Reference (palette): images/ch06/fig-6-1-ch6-at-a-glance.png
 Labels: root TOTAL SALES; level 2 BIKES, COMPONENTS, CLOTHING; level 3 (under BIKES) UNITED STATES, GERMANY, AUSTRALIA; GERMANY carries a "HIGH VALUE" badge; footer "CLICK A BRANCH, OR LET AI PICK THE SPLIT".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
@@ -324,8 +326,9 @@ NANO BANANA PRO — CHAPTER 6 FIGURE 4 (synthesis infographic)
 File: images/ch06/fig-6-4-trust-ai-insight.png
 Title: Before You Trust an AI Insight
 Concept: A five-point verification checklist to run on any AI-generated insight before it informs a decision.
-Archetype: Checklist — five stacked check rows.
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
+Archetype: Rich checklist — five stacked check rows, each with a small illustration; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-struggle.png
+Reference (palette): images/ch06/fig-6-1-ch6-at-a-glance.png
 Labels: checks DOES IT MAKE BUSINESS SENSE, IS IT CORRELATION OR CAUSE, COULD THE DATA BE BIASED, CAN YOU TRACE THE NUMBERS, WOULD YOU SIGN YOUR NAME TO IT; footer "THE ANALYST OWNS THE ANSWER, NOT THE AI".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->

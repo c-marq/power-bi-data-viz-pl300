@@ -103,8 +103,9 @@ NANO BANANA PRO — CHAPTER 7 FIGURE 2 (concept infographic)
 File: images/ch07/fig-7-2-dashboard-report-app.png
 Title: Dashboard, Report, or App
 Concept: The three Power BI containers compared — what each is and which audience it serves.
-Archetype: Row diagram — three full-width stacked panels, each [icon badge] · [description] · [pill verdict].
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
+Archetype: Rich row diagram — three full-width stacked panels, each an icon badge, an illustrated example, and a pill verdict; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-struggle.png
+Reference (palette): images/ch07/fig-7-1-ch7-at-a-glance.png
 Labels: rows DASHBOARD / AT-A-GLANCE MONITOR, REPORT / EXPLORE THE DETAIL, APP / DELIVER TO EVERYONE; footer "PICK BY WHO THE AUDIENCE IS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
@@ -151,8 +152,9 @@ NANO BANANA PRO — CHAPTER 7 FIGURE 3 (concept infographic)
 File: images/ch07/fig-7-3-pinning-dashboard.png
 Title: Pinning Builds a Dashboard
 Concept: A dashboard is assembled by pinning individual visuals from one or more report pages into one tiled screen.
-Archetype: Before/after — two side-by-side panels with a central gold arrow.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
+Archetype: Rich before/after — two illustrated panels (report pages with pushpins / one tiled dashboard) with a central PIN arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch07/fig-7-1-ch7-at-a-glance.png
 Labels: left panel "REPORT PAGES" (separate report pages with pushpin icons on visuals); right panel "ONE DASHBOARD" (a tidy grid of pinned tiles); footer "PIN THE BEST TILES INTO ONE VIEW".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
@@ -308,22 +310,23 @@ It can feel like a loss of control to let users repaint your visuals and pull yo
 
 <!--
 NANO BANANA PRO — CHAPTER 7 FIGURE 4 (synthesis infographic)
-File: images/ch07/fig-7-4-delivery-pipeline.png
-Title: From One File to Every Screen
-Concept: The delivery pipeline — the stages that carry a report from a laptop file to the whole organization.
-Archetype: Process flow — five numbered stages joined by arrows.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: stages BUILD IN DESKTOP, PUBLISH TO THE SERVICE, PIN A DASHBOARD, BUNDLE AN APP, REACHES EVERY DEVICE; banner "BUILDING IT IS HALF THE JOB".
+File: images/ch07/fig-7-4-one-report-every-audience.png
+Title: One Report, Every Audience
+Concept: The case study synthesized — one finished report reaching every audience through the right delivery channel.
+Archetype: Rich hub-and-spoke — a central delivered report with six illustrated delivery-outcome spokes; ai4educators master-infographic style, navy/gold (deliberately NOT a left-to-right pipeline, to differ from the Ch7 opener journey).
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch06-opener.png
+Reference (palette): images/ch07/fig-7-1-ch7-at-a-glance.png
+Labels: hub THE DELIVERED REPORT; spokes EXEC DASHBOARD, MOBILE, DATA ALERT, WEEKLY SUBSCRIPTION, PAGINATED REPORT, PUBLISHED APP; banner "FROM THREE VIEWERS TO THIRTY-EIGHT".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch07/fig-7-4-delivery-pipeline.png
+:::{figure} ../images/ch07/fig-7-4-one-report-every-audience.png
 :label: fig-7-4
-:alt: A five-stage process-flow infographic titled "From One File to Every Screen": build in Desktop, publish to the Service, pin a dashboard, bundle an app, reaches every device. A banner reads "building it is half the job."
+:alt: A hub-and-spoke infographic titled "One Report, Every Audience." A central "delivered report" connects to six delivery outcomes: exec dashboard, mobile, data alert, weekly subscription, paginated report, and published app. A banner reads "from three viewers to thirty-eight."
 :width: 100%
 :align: center
 
-**Figure 7.4.** *From One File to Every Screen.* The delivery pipeline — the case study, drawn as the path the report takes.
+**Figure 7.4.** *One Report, Every Audience.* The case study — one finished report, reaching every audience through the right channel.
 :::
 
 Camila reopened the rollout with Jamal, this time treating delivery as the real work.
