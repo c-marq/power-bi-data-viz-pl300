@@ -119,10 +119,11 @@ Power BI gives you three scopes, and they live together in one place — the **F
 NANO BANANA PRO — CHAPTER 4 FIGURE 2 (concept infographic)
 File: images/ch04/fig-4-2-filter-hierarchy.png
 Title: The Filter Hierarchy
-Concept: The three scopes a filter can have — visual, page, report — drawn as nested tiers of widening reach.
-Archetype: Pyramid / ladder — three stacked tiers, narrowest at top.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: tiers VISUAL FILTER / AFFECTS ONE VISUAL, PAGE FILTER / AFFECTS EVERY VISUAL ON ONE PAGE, REPORT FILTER / AFFECTS EVERY PAGE; side arrow "SCOPE WIDENS".
+Concept: The three scopes a filter can have — visual, page, report — drawn as a pyramid of widening reach.
+Archetype: Rich three-tier pyramid — each tier illustrated with what it affects, plus a side SCOPE WIDENS arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-bloom.png
+Reference (palette): images/ch04/fig-4-1-ch4-at-a-glance.png
+Labels: tiers VISUAL FILTER / AFFECTS ONE VISUAL, PAGE FILTER / AFFECTS EVERY VISUAL ON ONE PAGE, REPORT FILTER / AFFECTS EVERY PAGE; side arrow SCOPE WIDENS; banner "PICK THE NARROWEST SCOPE THAT WORKS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -215,9 +216,10 @@ NANO BANANA PRO — CHAPTER 4 FIGURE 3 (concept infographic)
 File: images/ch04/fig-4-3-editing-interactions.png
 Title: Editing Interactions
 Concept: The three things a clicked visual can do to a neighbouring visual — filter, highlight, or none.
-Archetype: Row diagram — three full-width panels, each [icon badge + mode] · [bar-chart demonstration] · [pill verdict].
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
-Labels: rows FILTER / OTHERS REFILTER, HIGHLIGHT / OTHERS DIM, NONE / OTHERS IGNORE; footer "ONE CLICK, THREE BEHAVIORS".
+Archetype: Rich row diagram — three panels, each a clicked source chart and the neighbour's response with a verdict pill; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-struggle.png
+Reference (palette): images/ch04/fig-4-1-ch4-at-a-glance.png
+Labels: rows FILTER / OTHERS REFILTER, HIGHLIGHT / OTHERS DIM, NONE / OTHERS IGNORE; banner "ONE CLICK, THREE BEHAVIORS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -404,9 +406,10 @@ NANO BANANA PRO — CHAPTER 4 FIGURE 4 (synthesis infographic)
 File: images/ch04/fig-4-4-question-to-tool.png
 Title: Match the Question to the Tool
 Concept: A decision framework — every audience follow-up question maps to one interactive feature from this chapter.
-Archetype: Card row — four titled cards, each [a question] → [the tool].
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: cards "WHAT IF I ONLY WANT BIKES → SLICER", "WHY IS THAT BAR SO TALL → DRILL-THROUGH", "WHAT IS BEHIND THIS POINT → CUSTOM TOOLTIP", "SHOW ME THE SUMMARY VIEW → BOOKMARK"; banner "THE AUDIENCE ASKS, THE REPORT ANSWERS".
+Archetype: Rich card row — four tall illustrated cards, each a question with a drawn illustration of the matching tool; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch04/fig-4-1-ch4-at-a-glance.png
+Labels: cards WHAT IF I ONLY WANT BIKES → SLICER, WHY IS THAT BAR SO TALL → DRILL-THROUGH, WHAT IS BEHIND THIS POINT → CUSTOM TOOLTIP, SHOW ME THE SUMMARY VIEW → BOOKMARK; banner "THE AUDIENCE ASKS, THE REPORT ANSWERS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
