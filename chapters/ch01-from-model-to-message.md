@@ -4,25 +4,24 @@ subtitle: "Foundations of Power BI Visualization"
 ---
 
 <!--
-NANO BANANA PRO IMAGE PROMPT
-File: images/ch01/fig-1-1-crossroads.png
-Title: The Crossroads
-
-Subject: A young Latina professional in her mid-20s, business-casual attire, standing at a fork in an indoor walkway.
-Action: She is mid-step, turning her head to look from one path to the other; one path glows softly while the other is dim.
-Environment: Inside a modern, glass-walled corporate workspace at dusk; Miami skyline visible through the windows (palm tree silhouettes, ocean glow on the horizon); subtle holographic data elements floating along the lit path — a glowing bar chart, a KPI card, a faint map.
-Lighting: Cool blue ambient with warm gold accents on the lit path; cinematic, depth of field with the protagonist in sharp focus.
-Style: Photo-real with a subtle digital-painting finish; clean, premium, editorial; consistent with the book's broader visual identity.
-Constraints: No text, no readable chart labels, no logos, no other people; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 1 OPENING INFOGRAPHIC
+File: images/ch01/fig-1-1-ch1-at-a-glance.png
+Title: From Model to Message (Chapter 1 Overview)
+Concept: A master infographic of the chapter — the foundations that turn a finished data model into a report that drives a decision.
+Archetype: Master infographic — a layered foundation stack of five stacked bands, richly illustrated in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch02-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 1 OVERVIEW; title FROM MODEL TO MESSAGE; bands THE DATA MODEL, VISUAL ENCODING, PRE-ATTENTIVE PROCESSING, CHOOSE THE RIGHT VISUAL, THE REPORT; banner "FROM A MODEL TO A MESSAGE".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch01/fig-1-1-crossroads.png
+:::{figure} ../images/ch01/fig-1-1-ch1-at-a-glance.png
 :label: fig-1-1
-:alt: Camila at a crossroads in a glass-walled corporate hallway at dusk, holographic data visuals lining a lit path; Miami skyline beyond the windows.
+:alt: A master infographic titled "From Model to Message." A layered foundation stack rises from "the data model" through "visual encoding," "pre-attentive processing," and "choose the right visual" to "the report — an argument for a decision." A banner reads "from a model to a message."
 :width: 100%
 :align: center
 
-**Figure 1.1.** *The Crossroads.* Camila chooses between two paths — one lit by the data she has just learned to wield.
+**Figure 1.1.** *From Model to Message — Chapter 1 Overview.* The foundations, stacked: a finished data model becomes a report that drives a decision.
 :::
 
 **Chapter 1 of 8** | **Part 1 of 4: Foundations of Visualization**
@@ -116,17 +115,18 @@ Let us go back to Camila's Monday morning meeting.
 <!--
 NANO BANANA PRO — CHAPTER 1 FIGURE 2 (concept infographic)
 File: images/ch01/fig-1-2-data-dump-vs-decision.png
-Title: A Data Dump vs. a Decision
+Title: A Data Dump, or a Decision
 Concept: A report exists to drive a decision, not to display data — the Decision Question.
-Archetype: Before/after — two panels, central "THE DECISION QUESTION" arrow.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: panel headers "DATA DUMP" / "A DECISION"; callouts "11 VISUALS, 0 ANSWERS" / "CALL THESE TWO TERRITORIES"; footer "WHAT DOES MY AUDIENCE NEED TO DECIDE?".
+Archetype: Rich before/after — two illustrated report panels with annotations and reaction faces, central "THE DECISION QUESTION" arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch01/fig-1-1-ch1-at-a-glance.png
+Labels: panel headers DATA DUMP / A DECISION; annotations ELEVEN VISUALS, NO PRIORITY, WHERE DO I LOOK / ONE SORTED RANKING, TOP BAR IS CALL FIRST, A CLEAR ANSWER; arrow THE DECISION QUESTION; banner "WHAT DOES MY AUDIENCE NEED TO DECIDE?".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch01/fig-1-2-data-dump-vs-decision.png
 :label: fig-1-2
-:alt: A before-and-after infographic. On the left, a cluttered report crammed with eleven small mismatched charts, labeled "11 visuals, 0 answers." On the right, a focused report with one sorted bar chart and a number card, labeled "call these two territories." A central arrow reads "the Decision Question."
+:alt: A rich before-and-after infographic. On the left, "data dump" — a cluttered report crammed with mismatched charts, annotated "eleven visuals," "no priority," "where do I look?" On the right, "a decision" — a clean report with one sorted bar chart and a number card, annotated "one sorted ranking," "a clear answer." A central arrow reads "the Decision Question"; a banner reads "what does my audience need to decide?"
 :width: 100%
 :align: center
 
@@ -222,15 +222,16 @@ NANO BANANA PRO — CHAPTER 1 FIGURE 3 (concept infographic)
 File: images/ch01/fig-1-3-visual-encoding.png
 Title: Visual Encoding 101
 Concept: The four visual encoding channels ranked by how accurately the eye reads quantity.
-Archetype: Row diagram — four channel rows, each with a demonstration and a verdict pill.
-Reference: this figure is itself a locked style anchor in images/_style-reference/.
-Labels: rows POSITION / LENGTH / AREA / COLOR; pills "MOST ACCURATE" / "HIGHLY ACCURATE" / "OFTEN MISJUDGED" / "CATEGORIES, NOT QUANTITY".
+Archetype: Rich ranked accuracy scale — four channel rows from most to least accurate, each with a drawn demonstration and a verdict pill, plus a side ACCURACY arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-bloom.png
+Reference (palette): images/ch01/fig-1-1-ch1-at-a-glance.png
+Labels: rows POSITION / LENGTH / AREA / COLOR; verdict pills MOST ACCURATE / HIGHLY ACCURATE / OFTEN MISJUDGED / FOR CATEGORIES, NOT QUANTITY; side arrow ACCURACY; banner "POSITION BEATS LENGTH BEATS AREA BEATS COLOR".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch01/fig-1-3-visual-encoding.png
 :label: fig-1-3
-:alt: A four-row infographic titled "Visual Encoding 101." Each row demonstrates one channel — position, length, area, color — with a verdict: position is most accurate, length highly accurate, area often misjudged, and color is for categories not quantity.
+:alt: A ranked accuracy-scale infographic titled "Visual Encoding 101." Four channel rows run from most to least accurate — position, length, area, color — each with a drawn demonstration and a verdict: position most accurate, length highly accurate, area often misjudged, color for categories not quantity. A banner reads "position beats length beats area beats color."
 :width: 100%
 :align: center
 
@@ -340,15 +341,16 @@ NANO BANANA PRO — CHAPTER 1 FIGURE 4 (concept infographic)
 File: images/ch01/fig-1-4-match-question-visual.png
 Title: Match the Question to the Visual
 Concept: The audience's question decides the chart type — five question types mapped to their best visual.
-Archetype: Card row — five cards, each a question type with its recommended visual.
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
-Labels: cards COMPARE CATEGORIES (sorted bar), CHANGE OVER TIME (line chart), PARTS OF A WHOLE (stacked bar), ONE KEY NUMBER (card), A RELATIONSHIP (scatter plot).
+Archetype: Rich card row — five tall illustrated cards, each a question with a drawn mini-chart of its answer; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch01/fig-1-1-ch1-at-a-glance.png
+Labels: cards COMPARE CATEGORIES → SORTED BAR, CHANGE OVER TIME → LINE CHART, PARTS OF A WHOLE → STACKED BAR, ONE KEY NUMBER → KPI CARD, A RELATIONSHIP → SCATTER PLOT; banner "QUESTION FIRST, VISUAL SECOND".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch01/fig-1-4-match-question-visual.png
 :label: fig-1-4
-:alt: A five-card infographic titled "Match the Question to the Visual." Each card pairs a question type with its best chart: compare categories with a sorted bar, change over time with a line chart, parts of a whole with a stacked bar, one key number with a card, and a relationship with a scatter plot.
+:alt: A five-card infographic titled "Match the Question to the Visual." Each tall card pairs a question with a drawn mini-chart of its best answer: compare categories with a sorted bar, change over time with a line chart, parts of a whole with a stacked bar, one key number with a KPI card, and a relationship with a scatter plot.
 :width: 100%
 :align: center
 

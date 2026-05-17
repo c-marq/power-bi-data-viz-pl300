@@ -3,23 +3,24 @@ title: "Chapter 2 — The Core Visual Toolkit"
 ---
 
 <!--
-NANO BANANA PRO — CHAPTER 2 OPENING IMAGE
-File: images/ch02/fig-2-1-visual-toolkit-wall.png
-Subject: A bicycle mechanic's pegboard tool wall inside a modern AdventureWorks bike shop, with a tidy assembly bench in the foreground.
-Action: Among the mounted wrenches and tire levers hang translucent, softly glowing holographic data visuals — a bar chart, a line chart, a single-number data card; one holographic visual is lifted slightly off its hook, as if being chosen for a job. On the bench, a laptop shows a partially built report glowing on screen.
-Environment: A clean, modern bike shop interior at dusk; Miami skyline and palm-tree silhouettes visible through a large window, ocean glow on the horizon — echoing the setting of the Chapter 1 opening image.
-Lighting: Cool blue ambient with warm gold accents; cinematic, shallow depth of field with the tool wall in sharp focus; a cool turquoise glow radiating from the holographic visuals.
-Style: Photo-real with a subtle digital-painting finish; clean, premium, editorial; consistent with the Chapter 1 opening image and the book's broader visual identity.
-Constraints: No text, no readable chart labels, no logos, no people; 16:9 aspect ratio.
+NANO BANANA PRO — CHAPTER 2 OPENING INFOGRAPHIC
+File: images/ch02/fig-2-1-ch2-at-a-glance.png
+Title: The Core Visual Toolkit (Chapter 2 Overview)
+Concept: A master infographic of the chapter — every chart Power BI gives you, grouped by the job it does.
+Archetype: Master infographic — a categorized gallery of six grouped chart-type panels, richly illustrated in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch01-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 2 OVERVIEW; title THE CORE VISUAL TOOLKIT; groups COMPARISON, TREND OVER TIME, PART-TO-WHOLE, RELATIONSHIP AND DISTRIBUTION, TABLES AND MATRICES, MAPS AND KPI CARDS; banner "PICK THE RIGHT TOOL FOR THE JOB".
+Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
-:::{figure} ../images/ch02/fig-2-1-visual-toolkit-wall.png
+:::{figure} ../images/ch02/fig-2-1-ch2-at-a-glance.png
 :label: fig-2-1
-:alt: A bike-shop pegboard tool wall where the hanging tools are translucent holographic data visuals — bar chart, line chart, KPI card — with a laptop showing a partial report on the bench.
+:alt: A master infographic titled "The Core Visual Toolkit." A categorized gallery groups Power BI's charts by purpose: comparison, trend over time, part-to-whole, relationship and distribution, tables and matrices, and maps and KPI cards. A banner reads "pick the right tool for the job."
 :width: 100%
 :align: center
 
-**Figure 2.1.** *The Visual Toolkit Wall.* Like a mechanic's pegboard, the Visualizations pane is a wall of tools. The job is choosing the right one.
+**Figure 2.1.** *The Core Visual Toolkit — Chapter 2 Overview.* Every chart Power BI gives you, grouped by the job it does.
 :::
 
 **CAP2743C: Power BI — Data Visualization and Analysis**

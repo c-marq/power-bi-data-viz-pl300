@@ -6,21 +6,22 @@ subtitle: "Filters, Navigation, and Drill-Through"
 <!--
 NANO BANANA PRO — CHAPTER 4 OPENING INFOGRAPHIC
 File: images/ch04/fig-4-1-ch4-at-a-glance.png
-Title: Interactive Storytelling at a Glance
-Concept: A roadmap of the chapter — the six controls that turn a static report into a conversation.
-Archetype: Control panel — one console with six embedded control modules in two rows of three (deliberately NOT hub-and-spoke, to differ from the Ch3 / Ch5 openers).
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: modules FILTER HIERARCHY, SLICERS, EDITING INTERACTIONS, DRILL-THROUGH, CUSTOM TOOLTIPS, BOOKMARKS AND NAVIGATION; banner "FROM STATIC TO CONVERSATION".
+Title: Interactive Storytelling (Chapter 4 Overview)
+Concept: A master infographic of the chapter — the six controls that turn a static report into a conversation.
+Archetype: Master infographic — a hub-and-spoke with a central report and six richly illustrated control spokes, in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch06-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 4 OVERVIEW; title INTERACTIVE STORYTELLING; spokes FILTER HIERARCHY, SLICERS, EDITING INTERACTIONS, DRILL-THROUGH, CUSTOM TOOLTIPS, BOOKMARKS AND NAVIGATION; banner "FROM STATIC TO CONVERSATION".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch04/fig-4-1-ch4-at-a-glance.png
 :label: fig-4-1
-:alt: A control-panel infographic titled "Interactive Storytelling at a Glance." One console holds six labelled control modules: filter hierarchy, slicers, editing interactions, drill-through, custom tooltips, and bookmarks and navigation. A banner reads "from static to conversation."
+:alt: A master infographic titled "Interactive Storytelling." A central report screen connects by six spokes to illustrated controls: filter hierarchy, slicers, editing interactions, drill-through, custom tooltips, and bookmarks and navigation. A banner reads "from static to conversation."
 :width: 100%
 :align: center
 
-**Figure 4.1.** *Interactive Storytelling at a Glance.* The six controls that turn a static report into a conversation.
+**Figure 4.1.** *Interactive Storytelling — Chapter 4 Overview.* The six controls that turn a static report into a conversation.
 :::
 
 **Chapter 4 of 8** | **Part 2 of 4: Design and Interaction**

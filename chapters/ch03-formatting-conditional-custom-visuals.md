@@ -6,21 +6,22 @@ subtitle: "Design and Interaction, Part 1"
 <!--
 NANO BANANA PRO — CHAPTER 3 OPENING INFOGRAPHIC
 File: images/ch03/fig-3-1-ch3-at-a-glance.png
-Title: Chapter 3 at a Glance
-Concept: A roadmap of the chapter — the six levers that move a report from functional to convincing.
-Archetype: Hub-and-spoke — central "A CONVINCING REPORT" node, six labelled spokes.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: spokes THEMES, CONDITIONAL FORMATTING, SMALL MULTIPLES, CUSTOM VISUALS, R AND PYTHON VISUALS, ACCESSIBILITY; banner "FUNCTIONAL TO CONVINCING".
+Title: From Functional to Convincing (Chapter 3 Overview)
+Concept: A master infographic of the chapter — the six levers that move a report from functional to convincing.
+Archetype: Master infographic — a before/after transformation with a central toolset of six levers, richly illustrated in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch02-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 3 OVERVIEW; title FROM FUNCTIONAL TO CONVINCING; before/after panels FUNCTIONAL, CONVINCING; tools THEMES, CONDITIONAL FORMATTING, SMALL MULTIPLES, CUSTOM VISUALS, R AND PYTHON, ACCESSIBILITY; banner "SAME DATA, A STRONGER ARGUMENT".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch03/fig-3-1-ch3-at-a-glance.png
 :label: fig-3-1
-:alt: A hub-and-spoke infographic titled "Chapter 3 at a Glance." A central node, "a convincing report," connects to six spokes: themes, conditional formatting, small multiples, custom visuals, R and Python visuals, and accessibility. A banner reads "functional to convincing."
+:alt: A master infographic titled "From Functional to Convincing." A plain "functional" report on the left transforms, through six labelled tools — themes, conditional formatting, small multiples, custom visuals, R and Python, accessibility — into a polished "convincing" report on the right. A banner reads "same data, a stronger argument."
 :width: 100%
 :align: center
 
-**Figure 3.1.** *Chapter 3 at a Glance.* The six levers that move a report from functional to convincing.
+**Figure 3.1.** *From Functional to Convincing — Chapter 3 Overview.* The six levers that move a report from functional to convincing.
 :::
 
 **Chapter 3 of 8** | **Part 2 of 4: Design and Interaction**

@@ -6,21 +6,22 @@ subtitle: "Patterns, Anomalies, and Copilot"
 <!--
 NANO BANANA PRO — CHAPTER 6 OPENING INFOGRAPHIC
 File: images/ch06/fig-6-1-ch6-at-a-glance.png
-Title: AI-Powered Analysis at a Glance
-Concept: A roadmap of the chapter — the six AI features that let a report notice what the analyst did not think to ask.
-Archetype: Honeycomb — six hexagons packed in two offset rows, no central node (deliberately NOT hub-and-spoke or roadmap, to differ from the Ch3 / Ch5 openers).
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: hexagons GROUPING AND CLUSTERING, OUTLIERS AND ANOMALIES, KEY INFLUENCERS, DECOMPOSITION TREE, THE Q AND A VISUAL, COPILOT; banner "FROM ANALYZING TO NOTICING".
+Title: AI-Powered Analysis (Chapter 6 Overview)
+Concept: A master infographic of the chapter — the AI features that let a report notice what the analyst did not think to ask.
+Archetype: Master infographic — a central analysis diagram flanked by two side-panels, richly illustrated in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch06-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 6 OVERVIEW; title AI-POWERED ANALYSIS; centre AI ANALYSIS with KEY INFLUENCERS, DECOMPOSITION TREE, THE Q AND A VISUAL; left panel FIND THE UNUSUAL (grouping and clustering, outliers, anomalies); right panel COPILOT (create report pages, summarize the model); banner "FROM ANALYZING TO NOTICING".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch06/fig-6-1-ch6-at-a-glance.png
 :label: fig-6-1
-:alt: A honeycomb infographic titled "AI-Powered Analysis at a Glance." Six hexagons hold the chapter's AI features: grouping and clustering, outliers and anomalies, key influencers, decomposition tree, the Q&A visual, and Copilot. A banner reads "from analyzing to noticing."
+:alt: A master infographic titled "AI-Powered Analysis." A central "AI analysis" diagram shows key influencers, a decomposition tree, and the Q&A visual; a left panel "find the unusual" covers grouping and clustering, outliers, and anomalies; a right panel covers Copilot. A banner reads "from analyzing to noticing."
 :width: 100%
 :align: center
 
-**Figure 6.1.** *AI-Powered Analysis at a Glance.* The six AI features that let a report notice what the analyst did not think to ask.
+**Figure 6.1.** *AI-Powered Analysis — Chapter 6 Overview.* The AI features that let a report notice what the analyst did not think to ask.
 :::
 
 **Chapter 6 of 8** | **Part 3 of 4: Analytics and AI**

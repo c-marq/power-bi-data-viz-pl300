@@ -6,21 +6,22 @@ subtitle: "Analytics, Statistics, and Visual Calculations"
 <!--
 NANO BANANA PRO — CHAPTER 5 OPENING INFOGRAPHIC
 File: images/ch05/fig-5-1-ch5-at-a-glance.png
-Title: Analytics and Insight at a Glance
-Concept: A roadmap of the chapter — the six features that move a report from showing data to finding the story inside it.
-Archetype: Roadmap — a winding left-to-right path with six numbered milestone signposts (deliberately NOT hub-and-spoke, to differ from the Ch3/Ch4 openers).
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: milestones 1 ANALYZE FEATURE, 2 TOP N ANALYSIS, 3 ANALYTICS PANE, 4 QUICK INSIGHTS, 5 SMART NARRATIVE AND COPILOT, 6 VISUAL CALCULATIONS; banner "FROM SHOWING TO FINDING".
+Title: Insights That Tell a Story (Chapter 5 Overview)
+Concept: A master infographic of the chapter — the six features that move a report from showing data to finding the story inside it.
+Archetype: Master infographic — a six-card grid around a central hub, richly illustrated in the ai4educators.net chapter-overview style, retinted to the book's navy/gold brand.
+Reference (composition/density): ../../.ref-ai4ed/ai4ed-ch01-opener.png
+Reference (palette/finish): images/_style-reference/fig-3-2-two-reactions.png
+Labels: kicker CHAPTER 5 OVERVIEW; title INSIGHTS THAT TELL A STORY; centre hub FINDING THE INSIGHT; cards ANALYZE FEATURE, TOP N ANALYSIS, ANALYTICS PANE, QUICK INSIGHTS, SMART NARRATIVE AND COPILOT, VISUAL CALCULATIONS; banner "FROM SHOWING TO FINDING".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch05/fig-5-1-ch5-at-a-glance.png
 :label: fig-5-1
-:alt: A winding-roadmap infographic titled "Analytics and Insight at a Glance." Six numbered milestone signposts run along the path: analyze feature, top N analysis, analytics pane, quick insights, smart narrative and Copilot, and visual calculations. A banner reads "from showing to finding."
+:alt: A master infographic titled "Insights That Tell a Story." Six illustrated cards surround a central hub, "finding the insight": analyze feature, top N analysis, analytics pane, quick insights, smart narrative and Copilot, and visual calculations. A banner reads "from showing to finding."
 :width: 100%
 :align: center
 
-**Figure 5.1.** *Analytics and Insight at a Glance.* The six features that move a report from showing data to finding the story inside it.
+**Figure 5.1.** *Insights That Tell a Story — Chapter 5 Overview.* The six features that move a report from showing data to finding the story inside it.
 :::
 
 **Chapter 5 of 8** | **Part 3 of 4: Analytics and AI**
