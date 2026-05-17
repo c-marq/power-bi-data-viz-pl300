@@ -100,9 +100,10 @@ NANO BANANA PRO — CHAPTER 5 FIGURE 2 (concept infographic)
 File: images/ch05/fig-5-2-explain-the-change.png
 Title: Explain the Change
 Concept: The Analyze feature turns an unexplained drop into a named cause.
-Archetype: Before/after — two side-by-side panels with a central gold arrow.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: left panel "THE MYSTERY" (a dipping line chart under a question mark); right panel "THE EXPLANATION" (a ranked bar chart, one bar highlighted, "ONE RESELLER, ONE COUNTRY"); footer "THE REPORT DOES THE FIRST PASS".
+Archetype: Rich before/after — two illustrated panels with annotations, central "RIGHT-CLICK, ANALYZE" arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch05/fig-5-1-ch5-at-a-glance.png
+Labels: left panel THE MYSTERY (a dipping line chart, a question mark, WHY DID Q3 DROP); right panel THE EXPLANATION (a ranked factor list, top factor highlighted, ONE RESELLER, ONE COUNTRY); banner "THE REPORT DOES THE FIRST PASS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -302,9 +303,10 @@ NANO BANANA PRO — CHAPTER 5 FIGURE 3 (concept infographic)
 File: images/ch05/fig-5-3-measure-vs-visual-calc.png
 Title: Two Places to Calculate
 Concept: A measure lives in the model and is reused across many visuals; a visual calculation stays on one visual.
-Archetype: Asymmetric spatial diagram — a broad connected "model" zone vs a single small "visual" panel.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: left zone "THE MODEL" holding a MEASURE badge with gold connector lines fanning to four mini-charts, caption "REUSED EVERYWHERE"; right panel "ONE VISUAL" holding a VISUAL CALCULATION badge in a row grid, caption "LOCAL TO ONE VISUAL"; footer "PICK BY WHERE THE ANSWER MUST LIVE".
+Archetype: Rich asymmetric spatial diagram — a broad connected "model" zone vs a single small "visual" panel; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch06-opener.png
+Reference (palette): images/ch05/fig-5-1-ch5-at-a-glance.png
+Labels: left zone "THE MODEL" holding a MEASURE badge with gold connector lines fanning to four mini-charts, caption "REUSED EVERYWHERE"; right panel "ONE VISUAL" holding a VISUAL CALCULATION badge in a row grid, caption "LOCAL TO ONE VISUAL"; banner "PICK BY WHERE THE ANSWER MUST LIVE".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -352,9 +354,10 @@ NANO BANANA PRO — CHAPTER 5 FIGURE 4 (synthesis infographic)
 File: images/ch05/fig-5-4-data-to-insight.png
 Title: From Data to Insight
 Concept: The chapter's features as an ascending staircase of analytical value, from showing a number to narrating the story.
-Archetype: Ascending staircase — five steps climbing diagonally from lower left to upper right (deliberately NOT a stacked pyramid, to differ from Ch4 fig-4-2).
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: steps bottom to top SHOW THE NUMBER, ADD A REFERENCE LINE, EXPLAIN THE CHANGE, FORECAST FORWARD, NARRATE THE STORY; diagonal arrow "MORE INSIGHT"; footer "A REPORT THAT ANALYZES, NOT ONLY DISPLAYS".
+Archetype: Rich ascending staircase — five illustrated steps climbing diagonally from lower left to upper right (deliberately NOT a stacked pyramid, to differ from Ch4 fig-4-2); ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-struggle.png
+Reference (palette): images/ch05/fig-5-1-ch5-at-a-glance.png
+Labels: steps bottom to top SHOW THE NUMBER, ADD A REFERENCE LINE, EXPLAIN THE CHANGE, FORECAST FORWARD, NARRATE THE STORY; diagonal arrow "MORE INSIGHT"; banner "A REPORT THAT ANALYZES, NOT ONLY DISPLAYS".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
