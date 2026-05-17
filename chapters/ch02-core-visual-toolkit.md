@@ -80,9 +80,10 @@ NANO BANANA PRO — CHAPTER 2 FIGURE 2 (concept infographic)
 File: images/ch02/fig-2-2-comparison-family.png
 Title: The Comparison Family
 Concept: Bar and column charts — one tool turned 90 degrees, clustered vs stacked, and the rule to always sort by the measure.
-Archetype: Row diagram — three stacked panels.
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
-Labels: "BAR, horizontal" / "COLUMN, vertical" / "CLUSTERED" / "STACKED"; banner "ALWAYS SORT BY THE MEASURE".
+Archetype: Rich row diagram — three stacked panels, each demonstrating one idea with drawn charts; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-bloom.png
+Reference (palette): images/ch02/fig-2-1-ch2-at-a-glance.png
+Labels: rows BAR OR COLUMN, CLUSTERED OR STACKED, SORT BY THE MEASURE; banner "ALWAYS SORT BY THE MEASURE".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -254,9 +255,10 @@ NANO BANANA PRO — CHAPTER 2 FIGURE 3 (concept infographic)
 File: images/ch02/fig-2-3-pie-chart-breaks.png
 Title: When the Pie Chart Breaks
 Concept: A pie chart works with two or three clear slices and fails past that; a sorted bar answers the same question.
-Archetype: Three-panel comparison — good / bad / fix.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: panels "3 SLICES" / "11 SLICES" / "SORTED BAR"; pills "READABLE" / "UNREADABLE" / "USE THIS INSTEAD"; footer "PAST THREE SLICES, REACH FOR A SORTED BAR".
+Archetype: Rich three-panel comparison — good / bad / fix, each panel a drawn chart with a reaction face and a verdict pill; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch02-opener.png
+Reference (palette): images/ch02/fig-2-1-ch2-at-a-glance.png
+Labels: panels THREE SLICES / ELEVEN SLICES / SORTED BAR; pills READABLE / UNREADABLE / USE THIS INSTEAD; banner "PAST THREE SLICES, REACH FOR A SORTED BAR".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
@@ -431,9 +433,10 @@ NANO BANANA PRO — CHAPTER 2 FIGURE 4 (concept infographic)
 File: images/ch02/fig-2-4-dashboard-rebuild.png
 Title: The Dashboard Rebuild
 Concept: Rebuilding a chaotic inherited dashboard by swapping each visual for the one that answers its question.
-Archetype: Before/after — two panels, central "ONE DEFENSIBLE SWAP AT A TIME" arrow.
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
-Labels: panel headers "INHERITED" / "REBUILT"; callouts "8 VISUALS, GUESSWORK" / "3 FAMILIES, DEFENSIBLE"; footer "THE TOOLKIT IS THE SAME, THE QUESTION DISCIPLINE CHANGED".
+Archetype: Rich before/after — two illustrated dashboard panels with annotations and reaction faces, central "ONE DEFENSIBLE SWAP AT A TIME" arrow; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch02/fig-2-1-ch2-at-a-glance.png
+Labels: panel headers INHERITED / REBUILT; annotations EIGHT VISUALS, GUESSWORK / THREE FAMILIES, DEFENSIBLE; arrow ONE DEFENSIBLE SWAP AT A TIME; banner "THE TOOLKIT IS THE SAME, THE DISCIPLINE CHANGED".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 

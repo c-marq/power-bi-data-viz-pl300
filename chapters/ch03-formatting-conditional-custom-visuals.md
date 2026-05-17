@@ -95,16 +95,17 @@ Microsoft Learn calls this *report formatting*. In practice, it is the differenc
 NANO BANANA PRO — CHAPTER 3 FIGURE 2 (concept infographic)
 File: images/ch03/fig-3-2-two-reactions.png
 Title: Same Data, Two Reactions
-Concept: Formatting is a second argument — the same report, default vs branded, draws two different audience reactions.
-Archetype: Before/after — two panels, central "FORMATTING" arrow.
-Reference: this figure is itself a locked style anchor in images/_style-reference/.
-Labels: panel headers "DEFAULT" / "BRANDED"; callouts "A 3-SECOND GLANCE" / "THEY LEAN IN"; footer "THE DATA IS IDENTICAL".
+Concept: Formatting is a second argument — the same data, formatted two ways, draws two different audience reactions.
+Archetype: Rich Y-split — one data source diverging to two outcomes (default report / branded report) with two reaction faces; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-tuesdays.png
+Reference (palette): images/ch03/fig-3-1-ch3-at-a-glance.png
+Labels: source THE SAME DATA; branches DEFAULT → A 3-SECOND GLANCE / BRANDED → THEY LEAN IN; banner "THE DATA IS IDENTICAL, FORMATTING DECIDES THE REACTION".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch03/fig-3-2-two-reactions.png
 :label: fig-3-2
-:alt: A before-and-after infographic titled "Same Data, Two Reactions." A default-formatted dashboard draws "a 3-second glance"; the same dashboard, branded in navy and gold, makes the audience "lean in." A footer reads "the data is identical."
+:alt: A Y-split infographic titled "Same Data, Two Reactions." One dataset diverges along two gold arrows — a plain "default" report draws "a 3-second glance," while the same data as a polished "branded" report makes the audience "lean in." A banner reads "the data is identical."
 :width: 100%
 :align: center
 
@@ -313,15 +314,16 @@ NANO BANANA PRO — CHAPTER 3 FIGURE 3 (concept infographic)
 File: images/ch03/fig-3-3-custom-visual-checklist.png
 Title: Before You Install a Custom Visual
 Concept: The safety checklist to run before installing an AppSource custom visual into a report.
-Archetype: Checklist — four stacked check rows.
-Reference: images/_style-reference/fig-1-3-visual-encoding.png
-Labels: checks "MICROSOFT CERTIFIED BADGE" / "REAL PUBLISHER, WORKING WEBSITE" / "NO UNEXPECTED INTERNET CALLS" / "YOUR TENANT ALLOWS IT"; footer "UNCERTIFIED IS NOT ALWAYS UNSAFE, CERTIFIED IS THE FLOOR".
+Archetype: Rich checklist — four stacked check rows, each with a check badge and a small illustration; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch01-fig-struggle.png
+Reference (palette): images/ch03/fig-3-1-ch3-at-a-glance.png
+Labels: checks MICROSOFT CERTIFIED BADGE / REAL PUBLISHER, WORKING WEBSITE / NO UNEXPECTED INTERNET CALLS / YOUR TENANT ALLOWS IT; banner "CERTIFIED IS THE FLOOR".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
 :::{figure} ../images/ch03/fig-3-3-custom-visual-checklist.png
 :label: fig-3-3
-:alt: A four-item checklist infographic titled "Before You Install a Custom Visual": confirm the Microsoft Certified badge, a real publisher with a working website, no unexpected internet calls, and that your tenant allows the visual. A footer reads "uncertified is not always unsafe, certified is the floor."
+:alt: A four-row checklist infographic titled "Before You Install a Custom Visual": confirm the Microsoft Certified badge, a real publisher with a working website, no unexpected internet calls, and that your tenant allows the visual — each row with a small illustration. A banner reads "certified is the floor."
 :width: 100%
 :align: center
 
@@ -435,9 +437,10 @@ NANO BANANA PRO — CHAPTER 3 FIGURE 4 (concept infographic)
 File: images/ch03/fig-3-4-formatting-timeline.png
 Title: Camila's Board-Ready Friday
 Concept: The case study as a timeline — six formatting moves that take the report from functional to board-ready in one evening.
-Archetype: Process flow — six time-stamped steps left to right.
-Reference: images/_style-reference/fig-3-2-two-reactions.png
-Labels: steps 5:15 APPLY A THEME, 6:30 HEADLINE KPI CARD, 7:00 CONDITIONAL-FORMAT THE BARS, 7:45 SMALL MULTIPLES, 8:30 ACCESSIBILITY PASS, 9:15 SHIP IT; footer "FUNCTIONAL TO CONVINCING".
+Archetype: Rich timeline — a horizontal time track with six time-stamped milestone nodes, each illustrated; ai4educators master-infographic style, navy/gold.
+Reference (composition): ../../.ref-ai4ed/ai4ed-ch02-opener.png
+Reference (palette): images/ch03/fig-3-1-ch3-at-a-glance.png
+Labels: nodes 5:15 APPLY A THEME, 6:30 HEADLINE KPI CARD, 7:00 CONDITIONAL-FORMAT THE BARS, 7:45 SMALL MULTIPLES, 8:30 ACCESSIBILITY PASS, 9:15 SHIP IT; banner "FUNCTIONAL TO CONVINCING".
 Palette: navy #1B2A47, gold #C9A23A, white / pale-blue background.
 -->
 
